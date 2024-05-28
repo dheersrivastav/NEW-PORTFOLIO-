@@ -279,8 +279,8 @@ section{
 
 .img-hero {
     position: relative;
-    width: 600px; /* Adjust the size as needed */
-    height: 500px; /* Adjust the size as needed */
+    width: 650px; /* Adjust the size as needed */
+    height: 600px; /* Adjust the size as needed */
     border-radius: 50%;
     overflow: hidden;
     display: flex;
